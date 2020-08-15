@@ -1,224 +1,297 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="faksper.cf" resolutions="1x" timestamp="1560335895281">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1597524657451">
   <folder name="css">
-    <file name="site_global.css" crc="226455819"/>
-    <file name="index.css" crc="4292624106" ref="index"/>
-    <file name="nomq_index.css" crc="3810545585" ref="index"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="115815328" ref="index"/>
+    <file name="nomq_index.css" crc="3761519129" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="380897831" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.watch.js" crc="99325471" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="hmm-crop-u2942.png" crc="4164524972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene-crop-u2890.png" crc="271532772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode-crop-u3285.png" crc="506020516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information-crop-u3305.png" crc="5078590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode-crop-u3325.png" crc="11320608" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode-crop-u3345.png" crc="305383035" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime -crop-u3365.png" crc="4096144576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene-crop-u3385.png" crc="341045501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene.png" crc="3997360742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="u11197_states.png" crc="3980338817" ref="index"/>
-    <file name="u11197_states-r.png" crc="4104655758" ref="index"/>
-    <file name="u11197_states-a.png" crc="127224510" ref="index"/>
-    <file name="u11185_states.png" crc="301632194" ref="index"/>
-    <file name="u11185_states-r.png" crc="231542713" ref="index"/>
-    <file name="u11185_states-a.png" crc="481877488" ref="index"/>
-    <file name="u901_states.png" crc="319528800" ref="index"/>
-    <file name="u901_states-r.png" crc="4275789516" ref="index"/>
-    <file name="u901_states-a.png" crc="57110036" ref="index"/>
-    <file name="beach-sand-sea-water-ap-1366x768.jpg" crc="4244864062" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u927.png" crc="4174780091" ref="index"/>
-    <file name="u927-r.png" crc="4174780091" ref="index"/>
-    <file name="u938.png" crc="4263702719" ref="index"/>
-    <file name="u938-r.png" crc="4263702719" ref="index"/>
-    <file name="u330-4.png" crc="3875573637" ref="index"/>
-    <file name="u377-4.png" crc="50372615" ref="index"/>
-    <file name="59-512.png" crc="486564599" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="2- 4 different game mode.png" crc="3826963932" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="a-12-512.png" crc="105680128" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="3- how to play information.png" crc="378040926" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-512350x350.png" crc="4281015726" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u832-4.png" crc="4052041619" ref="index"/>
-    <file name="landscape_moon_mountains_multiple_photo_photograph_pictury_sun-512312x312.png" crc="480786783" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="canva-play-video-icon-mab7k9beo1a312x312.png" crc="508871439" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="technology_internet_communications7-512329x329.png" crc="4064483654" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u643-4.png" crc="109029119" ref="index"/>
-    <file name="u12485-4.png" crc="4275069999" ref="index"/>
-    <file name="asset 3.png" crc="4112311920" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="4- day mode.png" crc="121225821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 4.png" crc="3857484884" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="5- night mode.png" crc="497878736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 5.png" crc="412625320" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="6- save and continue anytime .png" crc="476288293" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 6.png" crc="4025756563" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+    <file name="7- win scene.png" crc="29511016" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u865-4.png" crc="5831241" ref="index"/>
-    <file name="u11197_states2.png" crc="498073307" ref="index"/>
-    <file name="u11197_states-r2.png" crc="481537405" ref="index"/>
-    <file name="u11197_states-a2.png" crc="128773399" ref="index"/>
-    <file name="u11185_states2.png" crc="4233751886" ref="index"/>
-    <file name="u11185_states-r2.png" crc="137129063" ref="index"/>
-    <file name="u11185_states-a2.png" crc="429463135" ref="index"/>
-    <file name="u901_states2.png" crc="528378741" ref="index"/>
-    <file name="u901_states-r2.png" crc="262105233" ref="index"/>
-    <file name="u901_states-a2.png" crc="349439736" ref="index"/>
-    <file name="u9272.png" crc="439258775" ref="index"/>
-    <file name="u927-r2.png" crc="439258775" ref="index"/>
-    <file name="u9382.png" crc="15138484" ref="index"/>
-    <file name="u938-r2.png" crc="15138484" ref="index"/>
-    <file name="u330-42.png" crc="245450945" ref="index"/>
-    <file name="u377-42.png" crc="3790952999" ref="index"/>
-    <file name="2-512167x167.png" crc="4281015726" seo="true" ref="index">
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="done.jpg" crc="4144562204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u832-42.png" crc="433796888" ref="index"/>
-    <file name="landscape_moon_mountains_multiple_photo_photograph_pictury_sun-512148x148.png" crc="480786783" seo="true" ref="index">
+    <file name="hmm-crop-u29422.png" crc="3929015749" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="canva-play-video-icon-mab7k9beo1a148x148.png" crc="508871439" seo="true" ref="index">
+    <file name="1-start scene-crop-u28902.png" crc="232409085" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="technology_internet_communications7-512156x156.png" crc="4064483654" seo="true" ref="index">
+    <file name="2- 4 different game mode-crop-u32852.png" crc="3874305575" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u643-42.png" crc="332609373" ref="index"/>
-    <file name="u12485-42.png" crc="3832467333" ref="index"/>
-    <file name="u865-42.png" crc="14375458" ref="index"/>
-    <file name="u11197_states3.png" crc="46079023" ref="index"/>
-    <file name="u11197_states-r3.png" crc="3867644508" ref="index"/>
-    <file name="u11197_states-a3.png" crc="3809763527" ref="index"/>
-    <file name="u11185_states3.png" crc="3873728655" ref="index"/>
-    <file name="u11185_states-r3.png" crc="28974578" ref="index"/>
-    <file name="u11185_states-a3.png" crc="212536893" ref="index"/>
-    <file name="u901_states3.png" crc="409291222" ref="index"/>
-    <file name="u901_states-r3.png" crc="4247854146" ref="index"/>
-    <file name="u901_states-a3.png" crc="327162454" ref="index"/>
-    <file name="beach-sand-sea-water-ap-1366x768-u349-fr.jpg" crc="204338685" ref="index"/>
-    <file name="u9273.png" crc="164267932" ref="index"/>
-    <file name="u927-r3.png" crc="164267932" ref="index"/>
-    <file name="u9383.png" crc="5492740" ref="index"/>
-    <file name="u938-r3.png" crc="5492740" ref="index"/>
-    <file name="u330-43.png" crc="396493174" ref="index"/>
-    <file name="u377-43.png" crc="440213003" ref="index"/>
-    <file name="2-512125x125.png" crc="485012646" seo="true" ref="index">
+    <file name="3- how to play information-crop-u33052.png" crc="189404493" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u832-43.png" crc="141304572" ref="index"/>
-    <file name="landscape_moon_mountains_multiple_photo_photograph_pictury_sun-512111x111.png" crc="3796177550" seo="true" ref="index">
+    <file name="4- day mode-crop-u33252.png" crc="202208299" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="canva-play-video-icon-mab7k9beo1a111x111.png" crc="508871439" seo="true" ref="index">
+    <file name="5- night mode-crop-u33452.png" crc="4211104346" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="technology_internet_communications7-512-crop-u9245.png" crc="63260000" seo="true" ref="index">
+    <file name="6- save and continue anytime -crop-u33652.png" crc="285584098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u643-43.png" crc="3816042135" ref="index"/>
-    <file name="u12485-43.png" crc="303660634" ref="index"/>
-    <file name="u865-43.png" crc="85594265" ref="index"/>
-    <file name="u11197_states4.png" crc="208939787" ref="index"/>
-    <file name="u11197_states-r4.png" crc="474394973" ref="index"/>
-    <file name="u11197_states-a4.png" crc="425426782" ref="index"/>
-    <file name="u11185_states4.png" crc="440369872" ref="index"/>
-    <file name="u11185_states-r4.png" crc="199445931" ref="index"/>
-    <file name="u11185_states-a4.png" crc="364602874" ref="index"/>
-    <file name="u901_states4.png" crc="337242378" ref="index"/>
-    <file name="u901_states-r4.png" crc="28006625" ref="index"/>
-    <file name="u901_states-a4.png" crc="4241501395" ref="index"/>
-    <file name="u9274.png" crc="3868589968" ref="index"/>
-    <file name="u927-r4.png" crc="3868589968" ref="index"/>
-    <file name="u9384.png" crc="3761825554" ref="index"/>
-    <file name="u938-r4.png" crc="3761825554" ref="index"/>
-    <file name="u377-44.png" crc="4137781602" ref="index"/>
-    <file name="2-51294x94.png" crc="429251862" seo="true" ref="index">
+    <file name="7- win scene-crop-u33852.png" crc="374152878" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u330-44.png" crc="423395246" ref="index"/>
-    <file name="u832-44.png" crc="3935222626" ref="index"/>
-    <file name="landscape_moon_mountains_multiple_photo_photograph_pictury_sun-51284x84.png" crc="4079345409" seo="true" ref="index">
+    <file name="hmm-crop-u29423.png" crc="4137872038" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="canva-play-video-icon-mab7k9beo1a84x84.png" crc="4134446971" seo="true" ref="index">
+    <file name="1-start scene911x513.png" crc="4083636200" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="technology_internet_communications7-51288x88.png" crc="484496311" seo="true" ref="index">
+    <file name="2- 4 different game mode911x513.png" crc="276241863" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u643-44.png" crc="4030070965" ref="index"/>
-    <file name="u12485-44.png" crc="3981478926" ref="index"/>
-    <file name="u865-44.png" crc="138460665" ref="index"/>
-    <file name="u330-45.png" crc="3824266187" ref="index"/>
-    <file name="u9275.png" crc="14608338" ref="index"/>
-    <file name="u927-r5.png" crc="14608338" ref="index"/>
-    <file name="u9385.png" crc="4182363513" ref="index"/>
-    <file name="u938-r5.png" crc="4182363513" ref="index"/>
-    <file name="u901_states5.png" crc="3859564641" ref="index"/>
-    <file name="u901_states-r5.png" crc="474239456" ref="index"/>
-    <file name="u901_states-a5.png" crc="490039713" ref="index"/>
-    <file name="u11185_states5.png" crc="261139315" ref="index"/>
-    <file name="u11185_states-r5.png" crc="245247564" ref="index"/>
-    <file name="u11185_states-a5.png" crc="4255277381" ref="index"/>
-    <file name="u11197_states5.png" crc="3874130356" ref="index"/>
-    <file name="u11197_states-r5.png" crc="4072119217" ref="index"/>
-    <file name="u11197_states-a5.png" crc="3961272372" ref="index"/>
-    <file name="u377-45.png" crc="3847150713" ref="index"/>
-    <file name="2-51246x46.png" crc="168006716" seo="true" ref="index">
+    <file name="3- how to play information911x513.png" crc="129597860" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u832-45.png" crc="205860301" ref="index"/>
-    <file name="landscape_moon_mountains_multiple_photo_photograph_pictury_sun-51253x53.png" crc="506270137" seo="true" ref="index">
+    <file name="4- day mode911x513.png" crc="4094196213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="canva-play-video-icon-mab7k9beo1a51x51.png" crc="487197871" seo="true" ref="index">
+    <file name="5- night mode911x513.png" crc="398907710" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="technology_internet_communications7-51253x53.png" crc="471501723" seo="true" ref="index">
+    <file name="6- save and continue anytime 911x513.png" crc="200805538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u643-45.png" crc="3879563925" ref="index"/>
-    <file name="u12485-45.png" crc="478873012" ref="index"/>
-    <file name="u865-45.png" crc="4225601697" ref="index"/>
+    <file name="7- win scene911x513.png" crc="228937844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene-crop-u28903.png" crc="3806257878" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode-crop-u32853.png" crc="405246925" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information-crop-u33053.png" crc="348850165" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode-crop-u33253.png" crc="3896861767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode-crop-u33453.png" crc="85199953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime -crop-u33653.png" crc="3988974265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene-crop-u33853.png" crc="371870721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="done1366x521.jpg" crc="4230598939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmm-crop-u29424.png" crc="3774885422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene-crop-u28904.png" crc="4223032485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode-crop-u32854.png" crc="323139884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information-crop-u33054.png" crc="97362552" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode-crop-u33254.png" crc="4281303417" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode-crop-u33454.png" crc="4196254731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime -crop-u33654.png" crc="53802881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene-crop-u33854.png" crc="4089141254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene854x480.png" crc="4087549197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode854x480.png" crc="523449554" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information854x480.png" crc="266151285" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode854x480.png" crc="4025850106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode854x480.png" crc="3916651508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime 854x480.png" crc="15709503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene854x480.png" crc="45976232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="done1280x488.jpg" crc="4019969045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmm-crop-u29425.png" crc="114897963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene-crop-u28905.png" crc="4160942291" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode-crop-u32855.png" crc="425785171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information-crop-u33055.png" crc="3795299214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode-crop-u33255.png" crc="137673097" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode-crop-u33455.png" crc="3771088846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime -crop-u33655.png" crc="202801872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene-crop-u33855.png" crc="99468315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene683x384.png" crc="170577778" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode683x384.png" crc="91124464" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information683x384.png" crc="120664313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode683x384.png" crc="13288886" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode683x384.png" crc="4219946533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime 683x384.png" crc="165368678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene683x384.png" crc="90024232" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="done1024x390.jpg" crc="4181290692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hmm-crop-u29426.png" crc="517272963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene-crop-u28906.png" crc="3907752342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode-crop-u32856.png" crc="387143362" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information-crop-u33056.png" crc="4126865604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode-crop-u33256.png" crc="4223723955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode-crop-u33456.png" crc="3520577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime -crop-u33656.png" crc="308170672" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene-crop-u33856.png" crc="3903420687" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-start scene304x171.png" crc="3813678622" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2- 4 different game mode304x171.png" crc="3850234063" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3- how to play information304x171.png" crc="519861173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4- day mode304x171.png" crc="4111452237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5- night mode304x171.png" crc="93379069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6- save and continue anytime 304x171.png" crc="362122575" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7- win scene304x171.png" crc="360895725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="done375x143.jpg" crc="270276399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4158483454" seo="true" mt="1560335894013" redirect="true"/>
+  <file name="index.html" crc="529387550" seo="true" mt="1597524468196" redirect="true"/>
 </manifest>
