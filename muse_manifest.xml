@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1598447696499">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1598453647882">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="298302736" ref="index"/>
-    <file name="nomq_index.css" crc="4021874170" ref="index"/>
+    <file name="index.css" crc="292390998" ref="index"/>
+    <file name="nomq_index.css" crc="95036304" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,7 +18,7 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="hmm-crop-u2942.png" crc="4164524972" seo="true" ref="index">
+    <file name="hmm-crop-u2942.png" crc="4016662182" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene-crop-u2890.png" crc="271532772" seo="true" ref="index">
@@ -76,7 +76,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hmm-crop-u29422.png" crc="3929015749" seo="true" ref="index">
+    <file name="hmm-crop-u29422.png" crc="4287511511" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene-crop-u28902.png" crc="232409085" seo="true" ref="index">
@@ -100,7 +100,7 @@
     <file name="7- win scene-crop-u33852.png" crc="374152878" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hmm-crop-u29423.png" crc="4137872038" seo="true" ref="index">
+    <file name="hmm-crop-u29423.png" crc="156445781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene911x513.png" crc="4083636200" seo="true" ref="index">
@@ -148,7 +148,7 @@
     <file name="done1366x521.jpg" crc="4230598939" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hmm-crop-u29424.png" crc="3774885422" seo="true" ref="index">
+    <file name="hmm-crop-u29424.png" crc="69373736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene-crop-u28904.png" crc="4223032485" seo="true" ref="index">
@@ -196,7 +196,7 @@
     <file name="done1280x488.jpg" crc="4019969045" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hmm-crop-u29425.png" crc="114897963" seo="true" ref="index">
+    <file name="hmm-crop-u29425.png" crc="247288201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene-crop-u28905.png" crc="4160942291" seo="true" ref="index">
@@ -244,7 +244,7 @@
     <file name="done1024x390.jpg" crc="4181290692" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hmm-crop-u29426.png" crc="4203702261" seo="true" ref="index">
+    <file name="hmm-crop-u29426.png" crc="4002931512" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene-crop-u28906.png" crc="71939958" seo="true" ref="index">
@@ -292,7 +292,7 @@
     <file name="done600x229.jpg" crc="514467960" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hmm-crop-u29427.png" crc="517272963" seo="true" ref="index">
+    <file name="hmm-crop-u29427.png" crc="426525931" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="1-start scene-crop-u28907.png" crc="3907752342" seo="true" ref="index">
@@ -341,5 +341,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="305087296" seo="true" mt="1598447622359" redirect="true"/>
+  <file name="index.html" crc="419206776" seo="true" mt="1598453600333" redirect="true"/>
 </manifest>
