@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1598453647882">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1599681125899">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="292390998" ref="index"/>
-    <file name="nomq_index.css" crc="95036304" ref="index"/>
+    <file name="index.css" crc="197124458" ref="index"/>
+    <file name="nomq_index.css" crc="4171173373" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,6 +14,7 @@
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
@@ -72,10 +73,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="done.jpg" crc="4144562204" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="541197-steam-logo-640x360.jpg" crc="3795586526" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="25c285e020572b4f76b770d6cca272ec.jpg" crc="3959244648" ref="index"/>
     <file name="hmm-crop-u29422.png" crc="4287511511" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -100,6 +101,7 @@
     <file name="7- win scene-crop-u33852.png" crc="374152878" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr.jpg" crc="244311771" ref="index"/>
     <file name="hmm-crop-u29423.png" crc="156445781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -145,9 +147,7 @@
     <file name="7- win scene-crop-u33853.png" crc="371870721" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="done1366x521.jpg" crc="4230598939" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr2.jpg" crc="4226595986" ref="index"/>
     <file name="hmm-crop-u29424.png" crc="69373736" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -193,9 +193,7 @@
     <file name="7- win scene854x480.png" crc="45976232" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="done1280x488.jpg" crc="4019969045" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr3.jpg" crc="375330794" ref="index"/>
     <file name="hmm-crop-u29425.png" crc="247288201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -241,9 +239,8 @@
     <file name="7- win scene683x384.png" crc="90024232" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="done1024x390.jpg" crc="4181290692" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="541197-steam-logo-640x360-u5642-fr.jpg" crc="3797111527" ref="index"/>
+    <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr4.jpg" crc="3926458138" ref="index"/>
     <file name="hmm-crop-u29426.png" crc="4002931512" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -289,9 +286,8 @@
     <file name="7- win scene537x303.png" crc="4083182529" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="done600x229.jpg" crc="514467960" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="541197-steam-logo-640x360-u5642-fr2.jpg" crc="4134231218" ref="index"/>
+    <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr5.jpg" crc="4207206263" ref="index"/>
     <file name="hmm-crop-u29427.png" crc="426525931" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -337,9 +333,8 @@
     <file name="7- win scene304x171.png" crc="360895725" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="done375x143.jpg" crc="270276399" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="541197-steam-logo-640x360-u5642-fr3.jpg" crc="445671221" ref="index"/>
+    <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr6.jpg" crc="182894513" ref="index"/>
   </folder>
-  <file name="index.html" crc="419206776" seo="true" mt="1598453600333" redirect="true"/>
+  <file name="index.html" crc="3823544085" seo="true" mt="1599680658993" redirect="true"/>
 </manifest>

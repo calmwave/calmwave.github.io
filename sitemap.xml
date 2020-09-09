@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://calmwave.github.io/index.html</loc>
-    <lastmod>2020-08-26</lastmod>
+    <lastmod>2020-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,9 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://calmwave.github.io/images/7-%20win%20scene.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://calmwave.github.io/images/done.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://calmwave.github.io/images/hmm-crop-u29422.png</image:loc>
@@ -123,9 +120,6 @@
       <image:loc>http://calmwave.github.io/images/7-%20win%20scene-crop-u33853.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://calmwave.github.io/images/done1366x521.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://calmwave.github.io/images/hmm-crop-u29424.png</image:loc>
     </image:image>
     <image:image>
@@ -169,9 +163,6 @@
     </image:image>
     <image:image>
       <image:loc>http://calmwave.github.io/images/7-%20win%20scene854x480.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://calmwave.github.io/images/done1280x488.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://calmwave.github.io/images/hmm-crop-u29425.png</image:loc>
@@ -219,9 +210,6 @@
       <image:loc>http://calmwave.github.io/images/7-%20win%20scene683x384.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://calmwave.github.io/images/done1024x390.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://calmwave.github.io/images/hmm-crop-u29426.png</image:loc>
     </image:image>
     <image:image>
@@ -267,9 +255,6 @@
       <image:loc>http://calmwave.github.io/images/7-%20win%20scene537x303.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://calmwave.github.io/images/done600x229.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://calmwave.github.io/images/hmm-crop-u29427.png</image:loc>
     </image:image>
     <image:image>
@@ -313,9 +298,6 @@
     </image:image>
     <image:image>
       <image:loc>http://calmwave.github.io/images/7-%20win%20scene304x171.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://calmwave.github.io/images/done375x143.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
