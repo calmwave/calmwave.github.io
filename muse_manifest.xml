@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1601587979487">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="calmwave.github.io" resolutions="1x" timestamp="1601766834001">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4012001421" ref="index"/>
-    <file name="nomq_index.css" crc="303085525" ref="index"/>
+    <file name="index.css" crc="4262097952" ref="index"/>
+    <file name="nomq_index.css" crc="4033629001" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,56 +19,91 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="hmm-crop-u2942.png" crc="4016662182" seo="true" ref="index">
+    <file name="calmwaves-crop-u2942.jpg" crc="4232170918" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene-crop-u2890.png" crc="271532772" seo="true" ref="index">
+    <file name="1-crop-u2890.jpg" crc="4109064701" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode-crop-u3285.png" crc="506020516" seo="true" ref="index">
+    <file name="2-crop-u3285.jpg" crc="371155923" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information-crop-u3305.png" crc="5078590" seo="true" ref="index">
+    <file name="3-crop-u3305.jpg" crc="3867181927" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u3325.jpg" crc="84660292" seo="true" ref="index">
+    <file name="4-crop-u3325.jpg" crc="249404051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u3345.jpg" crc="235007548" seo="true" ref="index">
+    <file name="5-crop-u3345.jpg" crc="165984217" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save-crop-u3365.jpg" crc="140115952" seo="true" ref="index">
+    <file name="6-crop-u3365.jpg" crc="102958146" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene-crop-u3385.png" crc="341045501" seo="true" ref="index">
+    <file name="7-crop-u3385.jpg" crc="4062280312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene.png" crc="3997360742" seo="true" ref="index">
+    <file name="1.jpg" crc="3960188817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="2- 4 different game mode.png" crc="3826963932" seo="true" ref="index">
+    <file name="2.jpg" crc="233465961" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="3- how to play information.png" crc="378040926" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="1.jpg" crc="457288770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2.jpg" crc="4196024655" seo="true" ref="index">
+    <file name="3.jpg" crc="63555349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save.jpg" crc="4193606999" seo="true" ref="index">
+    <file name="4.jpg" crc="375139818" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene.png" crc="29511016" seo="true" ref="index">
+    <file name="5.jpg" crc="84217873" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3804501242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="327579519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -77,264 +112,159 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="25c285e020572b4f76b770d6cca272ec.jpg" crc="3959244648" ref="index"/>
-    <file name="hmm-crop-u29422.png" crc="4287511511" seo="true" ref="index">
+    <file name="calmwaves-crop-u29422.jpg" crc="4160427888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene-crop-u28902.png" crc="232409085" seo="true" ref="index">
+    <file name="1-crop-u28902.jpg" crc="475674316" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode-crop-u32852.png" crc="3874305575" seo="true" ref="index">
+    <file name="2-crop-u32852.jpg" crc="4190176199" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information-crop-u33052.png" crc="189404493" seo="true" ref="index">
+    <file name="3-crop-u33052.jpg" crc="4162483213" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u33252.jpg" crc="4234752388" seo="true" ref="index">
+    <file name="4-crop-u33252.jpg" crc="3862662519" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u33452.jpg" crc="230569796" seo="true" ref="index">
+    <file name="5-crop-u33452.jpg" crc="177040536" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save-crop-u33652.jpg" crc="4242025148" seo="true" ref="index">
+    <file name="6-crop-u33652.jpg" crc="336334778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene-crop-u33852.png" crc="374152878" seo="true" ref="index">
+    <file name="7-crop-u33852.jpg" crc="418524946" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr.jpg" crc="244311771" ref="index"/>
-    <file name="hmm-crop-u29423.png" crc="156445781" seo="true" ref="index">
+    <file name="calmwaves-crop-u29423.jpg" crc="3836468046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene911x513.png" crc="4083636200" seo="true" ref="index">
+    <file name="1-crop-u28903.jpg" crc="510567219" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode911x513.png" crc="276241863" seo="true" ref="index">
+    <file name="2-crop-u32853.jpg" crc="3771722440" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information911x513.png" crc="129597860" seo="true" ref="index">
+    <file name="3-crop-u33053.jpg" crc="4214868640" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1911x513.jpg" crc="3898096719" seo="true" ref="index">
+    <file name="4-crop-u33253.jpg" crc="143282778" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2911x513.jpg" crc="4092959233" seo="true" ref="index">
+    <file name="5-crop-u33453.jpg" crc="22691028" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save911x513.jpg" crc="4252183730" seo="true" ref="index">
+    <file name="6-crop-u33653.jpg" crc="4023880378" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene911x513.png" crc="228937844" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-start scene-crop-u28903.png" crc="3806257878" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2- 4 different game mode-crop-u32853.png" crc="405246925" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3- how to play information-crop-u33053.png" crc="348850165" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-crop-u33253.jpg" crc="4268993562" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2-crop-u33453.jpg" crc="3900781911" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="save-crop-u33653.jpg" crc="3793608749" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7- win scene-crop-u33853.png" crc="371870721" seo="true" ref="index">
+    <file name="7-crop-u33853.jpg" crc="3982646151" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr2.jpg" crc="4226595986" ref="index"/>
-    <file name="hmm-crop-u29424.png" crc="69373736" seo="true" ref="index">
+    <file name="calmwaves-crop-u29424.jpg" crc="393244070" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene-crop-u28904.png" crc="4223032485" seo="true" ref="index">
+    <file name="1-crop-u28904.jpg" crc="499764490" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode-crop-u32854.png" crc="323139884" seo="true" ref="index">
+    <file name="2-crop-u32854.jpg" crc="147625816" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information-crop-u33054.png" crc="97362552" seo="true" ref="index">
+    <file name="3-crop-u33054.jpg" crc="3874073503" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u33254.jpg" crc="3806670396" seo="true" ref="index">
+    <file name="4-crop-u33254.jpg" crc="4065949968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u33454.jpg" crc="3766085905" seo="true" ref="index">
+    <file name="5-crop-u33454.jpg" crc="4162520834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save-crop-u33654.jpg" crc="3770060132" seo="true" ref="index">
+    <file name="6-crop-u33654.jpg" crc="180598904" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene-crop-u33854.png" crc="4089141254" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-start scene854x480.png" crc="4087549197" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2- 4 different game mode854x480.png" crc="523449554" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3- how to play information854x480.png" crc="266151285" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1854x480.jpg" crc="276808404" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2854x480.jpg" crc="405508457" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="save854x480.jpg" crc="531957209" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7- win scene854x480.png" crc="45976232" seo="true" ref="index">
+    <file name="7-crop-u33854.jpg" crc="316414861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr3.jpg" crc="375330794" ref="index"/>
-    <file name="hmm-crop-u29425.png" crc="247288201" seo="true" ref="index">
+    <file name="calmwaves-crop-u29425.jpg" crc="138861273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene-crop-u28905.png" crc="4160942291" seo="true" ref="index">
+    <file name="1-crop-u28905.jpg" crc="4090349154" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode-crop-u32855.png" crc="425785171" seo="true" ref="index">
+    <file name="2-crop-u32855.jpg" crc="4020038480" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information-crop-u33055.png" crc="3795299214" seo="true" ref="index">
+    <file name="3-crop-u33055.jpg" crc="3912746433" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u33255.jpg" crc="311758089" seo="true" ref="index">
+    <file name="4-crop-u33255.jpg" crc="245867453" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u33455.jpg" crc="4193450613" seo="true" ref="index">
+    <file name="5-crop-u33455.jpg" crc="314681040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save-crop-u33655.jpg" crc="3795755505" seo="true" ref="index">
+    <file name="6-crop-u33655.jpg" crc="142830414" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene-crop-u33855.png" crc="99468315" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-start scene683x384.png" crc="170577778" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2- 4 different game mode683x384.png" crc="91124464" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3- how to play information683x384.png" crc="120664313" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1683x384.jpg" crc="59991338" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2683x384.jpg" crc="4027667721" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="save683x384.jpg" crc="3926056298" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7- win scene683x384.png" crc="90024232" seo="true" ref="index">
+    <file name="7-crop-u33855.jpg" crc="3883524120" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="541197-steam-logo-640x360-u5642-fr.jpg" crc="3797111527" ref="index"/>
     <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr4.jpg" crc="3926458138" ref="index"/>
-    <file name="hmm-crop-u29426.png" crc="4002931512" seo="true" ref="index">
+    <file name="calmwaves-crop-u29426.jpg" crc="105897907" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene-crop-u28906.png" crc="71939958" seo="true" ref="index">
+    <file name="1-crop-u28906.jpg" crc="4143279327" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode-crop-u32856.png" crc="419276780" seo="true" ref="index">
+    <file name="2-crop-u32856.jpg" crc="4138787473" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information-crop-u33056.png" crc="3833679089" seo="true" ref="index">
+    <file name="3-crop-u33056.jpg" crc="4028464614" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u33256.jpg" crc="3777126766" seo="true" ref="index">
+    <file name="4-crop-u33256.jpg" crc="126195695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u33456.jpg" crc="4023896116" seo="true" ref="index">
+    <file name="5-crop-u33456.jpg" crc="3869889892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save-crop-u33656.jpg" crc="4130752708" seo="true" ref="index">
+    <file name="6-crop-u33656.jpg" crc="3833134357" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene-crop-u33856.png" crc="184051505" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-start scene537x303.png" crc="3855139370" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2- 4 different game mode537x303.png" crc="99328640" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3- how to play information537x303.png" crc="535978455" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1537x303.jpg" crc="533321629" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2537x303.jpg" crc="18509631" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="save537x303.jpg" crc="155585396" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7- win scene537x303.png" crc="4083182529" seo="true" ref="index">
+    <file name="7-crop-u33856.jpg" crc="376649108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="541197-steam-logo-640x360-u5642-fr2.jpg" crc="4134231218" ref="index"/>
     <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr5.jpg" crc="4207206263" ref="index"/>
-    <file name="hmm-crop-u29427.png" crc="426525931" seo="true" ref="index">
+    <file name="calmwaves-crop-u29427.jpg" crc="3921243138" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-start scene-crop-u28907.png" crc="3907752342" seo="true" ref="index">
+    <file name="1-crop-u28907.jpg" crc="417792837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2- 4 different game mode-crop-u32857.png" crc="387143362" seo="true" ref="index">
+    <file name="2-crop-u32857.jpg" crc="4174038271" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3- how to play information-crop-u33057.png" crc="4126865604" seo="true" ref="index">
+    <file name="3-crop-u33057.jpg" crc="430455085" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="1-crop-u33257.jpg" crc="396256681" seo="true" ref="index">
+    <file name="4-crop-u33257.jpg" crc="171898849" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2-crop-u33457.jpg" crc="3873355658" seo="true" ref="index">
+    <file name="5-crop-u33457.jpg" crc="4151601442" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="save-crop-u33657.jpg" crc="3833975367" seo="true" ref="index">
+    <file name="6-crop-u33657.jpg" crc="3943787231" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="7- win scene-crop-u33857.png" crc="3903420687" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1-start scene304x171.png" crc="3813678622" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2- 4 different game mode304x171.png" crc="3850234063" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="3- how to play information304x171.png" crc="519861173" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1304x171.jpg" crc="4291534177" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="2304x171.jpg" crc="409157610" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="save304x171.jpg" crc="3847165744" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="7- win scene304x171.png" crc="360895725" seo="true" ref="index">
+    <file name="7-crop-u33857.jpg" crc="80027704" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="541197-steam-logo-640x360-u5642-fr3.jpg" crc="445671221" ref="index"/>
     <file name="25c285e020572b4f76b770d6cca272ec-u5633-fr6.jpg" crc="182894513" ref="index"/>
   </folder>
-  <file name="index.html" crc="518989564" seo="true" mt="1601587498737" redirect="true"/>
+  <file name="index.html" crc="297898077" seo="true" mt="1601766760061" redirect="true"/>
 </manifest>
