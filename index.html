@@ -13,7 +13,7 @@
 	
 
 	.dropbtn {background-color: lightblue;padding: 14px;font-size: 18px; margin:10px 0 0 10px;
-	 border: none;cursor: pointer;}
+	 border: none;cursor: pointer; color:black;}
 
 	.dropdown {position: fixed; display:inline-block;top:0;left:0; z-index:1; }
 
@@ -27,8 +27,6 @@
 	.dropdown:hover .dropdown-content {display: inline;}
 
 
-
-
 	.container { position:relative; text-align:center; color: white;   height:50%; 
 	width:70%; margin:auto;}
 	.centered { position:absolute; top:50%; left:50%; transform:translate(-50%, -50%);
@@ -36,6 +34,11 @@
 	
 	hr {border: 0;height: 1px;
     background-image:linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0)); }
+	
+	
+	figure { padding: 4px; margin: auto; }
+	
+	figcaption {background-color:rgb(70,70,70); color:white; padding:4px; text-align:center; font-size:18px;}
 
 	
 	/* Slideshow container */
@@ -52,9 +55,6 @@
 	/* On hover, add a black background color with a little bit see-through */
 	.prev:hover, .next:hover {background-color: rgba(0,0,0,0.8); color:white;}
 
-	/* Caption text */
-	.text {color: black;font-size:18px; padding: 8px 12px;text-shadow:1px 5px 10px white;
-	position: absolute;bottom: 8px;width: 100%;text-align: center;}
 
 	/* Number text (1/3 etc) */
 	.numbertext {color: #f2f2f2;font-size: 12px;
@@ -75,7 +75,7 @@
 	@keyframes fade {from {opacity: .4} to {opacity: 1}}
 
 	/* On smaller screens, decrease text size */
-	@media only screen and (max-width: 300px) {.prev, .next,.text {font-size: 11px}}
+	@media only screen and (max-width: 300px) {.prev, .next, {font-size: 11px}}
 	
 	.youtube {position:relative; width: 70%; overflow: hidden; margin:auto;
 	padding-top: 56.25%; /* 16:9 Aspect Ratio */}
@@ -95,6 +95,7 @@
 	
 	.footer{ text-align:center; background-color:rgb(70,70,70); position:absolute; width:100%; padding:18px;
 	color:white;text-shadow:1px 5px 10px lightblue;font-size:18px;}
+	
 	</style>
 </head>
 <body>
@@ -134,45 +135,52 @@
 <div class="slideshow-container" id="photo">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 7</div>
+  <figure>
   <img src="images/1.jpg" style="width:100%">
-  <div class="text">Start Scene</div>
+  <figcaption>Start Scene</figcaption>
+  </figure>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 7</div>
+  <figure>
   <img src="images/2.jpg" style="width:100%">
-  <div class="text">4 Different Game Mode</div>
+  <figcaption>4 Different Game Mode</figcaption>
+  </figure>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 7</div>
+  <figure>
   <img src="images/3.jpg" style="width:100%">
-  <div class="text">How to Play Information</div>
+  <figcaption>How to Play Information</figcaption>
+  </figure>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">4 / 7</div>
+  <figure>
   <img src="images/4.jpg" style="width:100%">
-  <div class="text">Day Mode</div>
+  <figcaption>Day Mode</figcaption>
+  </figure>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">5 / 7</div>
+  <figure>
   <img src="images/5.jpg" style="width:100%">
-  <div class="text">Night Mode</div>
+  <figcaption>Night Mode</figcaption>
+  </figure>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">6 / 7</div>
+  <figure>
   <img src="images/6.jpg" style="width:100%">
-  <div class="text">Save and Continue Anytime</div>
+  <figcaption>Save and Continue Anytime</figcaption>
+  </figure>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">7 / 7</div>
+  <figure>
   <img src="images/7.jpg" style="width:100%">
-  <div class="text">Win Scene</div>
+  <figcaption>Win Scene</figcaption>
+  </figure>
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
